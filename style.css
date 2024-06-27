@@ -370,3 +370,15 @@ tfoot td {
         font-size: 125%;
     }
 }
+
+/*Changes made by DeveloperChinmaya*/
+
+#orderdiv{
+    display: flex;
+    justify-content: center;
+}
+
+#totaltab{
+    display: none;
+    justify-content: center;
+}
